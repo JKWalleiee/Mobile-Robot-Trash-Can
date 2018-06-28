@@ -4,12 +4,17 @@ The objective in this project was to assist people in the handling of garbage in
 
 ### Myversion2.java
 behaviors based control.
+
 • BehaviorTowardsPeople.
+
 • BehaviorReachGoal.
+
 • BehaviorEscape.
+
 
 ### MainActivity.java
 Acquisition and processing of images.
+
 A background subtraction was used. The OpenCV version was not used, instead the algorithm was programmed from scratch.
 
 
